@@ -1,0 +1,20 @@
+{
+  "name": "countdown_sami",
+  "version": "1.0.0",
+  "description": "to countdown seconds",
+  "main": "index.js",
+  "bin": {
+    "countdown_sami": "bin/index.js"
+  },
+  "scripts": {
+    "test": "\\*0*\\"
+  },
+  "keywords": [
+    "samm"
+  ],
+  "author": "samiya marium",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
